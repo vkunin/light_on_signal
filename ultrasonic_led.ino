@@ -4,7 +4,6 @@
 
 unsigned long startTime = 0;
 unsigned long ledOnTime = 0;
-bool ledIsOn = false;
 int time_waiting_for_signal = 3000;
 
 void setup() {
